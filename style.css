@@ -1,3 +1,19 @@
 body{
+	font-family:sans-serif;
   background-image: url("abstract-blue-background-simple-design-for-your-website-free-vector.jpg");
+}
+#search-box{
+	border-radius: 10px;
+	background:white;
+	width:200px;
+	height:25px;
+}
+#iphone-pixel-id{
+	border-radius: 10px;
+	background:white;
+	width:195px;
+}
+#iphone-img{
+	width:200px;
+	height:150px;
 }
