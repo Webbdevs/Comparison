@@ -3,10 +3,11 @@ body{
   background-image: url("background-colour.jpg");
 }
 #search-box{
+	font-size:20px;
 	border-radius: 10px;
 	background:white;
-	width:200px;
-	height:25px;
+	width:250px;
+	height:40px;
 }
 #iphone-pixel-id{
 	font-size:14px;
@@ -16,8 +17,8 @@ body{
 	text-align:center;
 }
 .img-class{
-	width:120px;
-	height:100px;
+	width:130px;
+	height:120px;
 }
 #watches-img{
 	width:150px;
@@ -37,4 +38,12 @@ body{
 }
 .text-center{
 	text-align:center;
+}
+.red-comp{
+	width:130px;
+	height:120px;
+}
+#speaker-img{
+	width:200px;
+	height:150px;
 }
