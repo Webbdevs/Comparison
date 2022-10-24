@@ -1,6 +1,6 @@
 body{
 	font-family:sans-serif;
-  background-image: url("abstract-blue-background-simple-design-for-your-website-free-vector.jpg");
+  background-image: url("background-colour.jpg");
 }
 #search-box{
 	border-radius: 10px;
@@ -9,11 +9,32 @@ body{
 	height:25px;
 }
 #iphone-pixel-id{
-	border-radius: 10px;
+	font-size:14px;
+	border-radius: 100px;
 	background:white;
-	width:195px;
+	width:170px;
+	text-align:center;
 }
 .img-class{
-	width:100px;
-	height:120px;
+	width:120px;
+	height:100px;
+}
+#watches-img{
+	width:150px;
+	height:150px;
+}
+#iphone-pixel-container{
+	text-align:center;
+}
+.center-class{
+	text-align:center; 
+	background:white;
+	border-radius:10px;
+}
+#headphone-img{
+	width:150px;
+	height:150px;
+}
+.text-center{
+	text-align:center;
 }
