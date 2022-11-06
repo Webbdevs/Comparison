@@ -1,6 +1,6 @@
 body{
-	font-family:sans-serif;
-  background-image: url("background-colour.jpg");
+	font-family:serif;
+  background-image: url("background.jpg");
 }
 #search-box{
 	font-size:20px;
@@ -15,6 +15,7 @@ body{
 	background:white;
 	width:170px;
 	text-align:center;
+	padding:4px;
 }
 .img-class{
 	width:130px;
@@ -31,6 +32,8 @@ body{
 	text-align:center; 
 	background:white;
 	border-radius:10px;
+	width:200px;
+	height:50px;
 }
 #headphone-img{
 	width:150px;
@@ -46,4 +49,11 @@ body{
 #speaker-img{
 	width:200px;
 	height:150px;
+}
+span{
+	width:200px;
+	height:40px;
+	font-size:22px;
+	font-weight:bold;
+	float:center;
 }
