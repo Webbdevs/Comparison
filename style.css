@@ -29,11 +29,12 @@ body{
 	text-align:center;
 }
 .center-class{
+	cursor:pointer;
 	text-align:center; 
 	background:white;
 	border-radius:10px;
 	width:200px;
-	height:50px;
+	height:60px;
 }
 #headphone-img{
 	width:150px;
