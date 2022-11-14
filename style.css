@@ -1,0 +1,80 @@
+body{
+	font-family:serif;
+  background-image: url("background.jpg");
+}
+#search-box{
+	font-size:20px;
+	border-radius: 10px;
+	background:white;
+	width:250px;
+	height:40px;
+}
+#iphone-pixel-id{
+	font-size:14px;
+	border-radius: 100px;
+	background:white;
+	width:170px;
+	text-align:center;
+	padding:4px;
+}
+.img-class{
+	width:130px;
+	height:120px;
+}
+#watches-img{
+	width:150px;
+	height:150px;
+}
+#iphone-pixel-container{
+	text-align:center;
+}
+.center-class{
+	cursor:pointer;
+	text-align:center; 
+	background:white;
+	border-radius:10px;
+	width:200px;
+	height:60px;
+}
+#headphone-img{
+	width:150px;
+	height:150px;
+}
+.text-center{
+	text-align:center;
+}
+.red-comp{
+	width:130px;
+	height:120px;
+}
+#speaker-img{
+	width:200px;
+	height:150px;
+}
+span{
+	width:200px;
+	height:40px;
+	font-size:22px;
+	font-weight:bold;
+	float:center;
+}
+#search-btn{
+	padding:0;
+	width:50px;
+	height:30px;
+}
+.material-symbols-outlined {
+	cursor:pointer;
+	background:white;
+	color:black;
+	width:30px;
+	height:35px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.styleing{
+	background:limegreen;
+}
